@@ -10,6 +10,8 @@
 | light_browser                                    | HarmonyOS 6.0+, MacOS               |
 | multi_calculator                                 | HarmonyOS 6.0+, iOS, Android, MacOS |
 
+---
+
 ### 𝚗𝚘𝚗-𝚊𝚝𝚝𝚎𝚗𝚍𝚊𝚗𝚌𝚎 𝚒𝚜 𝚖𝚢 𝚛𝚎𝚋𝚎𝚕𝚕𝚒𝚘𝚗
 
 **不登校は俺の社会へのリベンジだ**  
