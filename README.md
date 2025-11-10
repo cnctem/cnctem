@@ -1,3 +1,7 @@
+# систем
+
+Незнающий писать автобиографию студенческий неудачник, новичок в Flutter
+
 ### Recent projects (Flutter)
 
 | name                                             | platforms                           |
