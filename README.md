@@ -1,7 +1,3 @@
-# систем
-
-Незнающий писать автобиографию студенческий неудачник, новичок в Flutter
-
 ### Recent projects (Flutter)
 
 | name                                             | platforms                           |
@@ -22,3 +18,5 @@
 社会に媚びるより、寝室で VS Code に没頭  
 
 **「不登校」** は俺の、最も無力な反逆文句
+
+>As a non-attending student majoring in software engineering, I skip learning those time-honored computer fundamentals. The code I scrawl is full of bugs — that's my revenge on society.
