@@ -3,7 +3,7 @@
 Незнающий писать автобиографию студенческий неудачник, новичок в Flutter
 
 ## Skills
-#### 韩国功法 (S.Korean Kang Fu) 한국 쿵후
+#### 韩国功法 (S.Korean Kang Fu) 건국의 근본이다
 
 - 高效整合各类开源解决方案，敏锐挖掘核心价值
 - Efficiently integrate diverse open-source solutions, astutely extract core value
