@@ -23,12 +23,19 @@
 | light_browser                                    | HarmonyOS 6.0+, MacOS               |
 | multi_calculator                                 | HarmonyOS 6.0+, iOS, Android, MacOS |
 
----
 ## END
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cnctem)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cnctem)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 
 ### 𝚗𝚘𝚗-𝚊𝚝𝚝𝚎𝚗𝚍𝚊𝚗𝚌𝚎 𝚒𝚜 𝚖𝚢 𝚛𝚎𝚋𝚎𝚕𝚕𝚒𝚘𝚗
 
