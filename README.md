@@ -15,6 +15,10 @@
 - Adept at orchestrating AIGC, Agents & MCP toolchains for efficient synergy, commanding a digital workforce like a seasoned tech overlord
 - 선군정치는 우리 혁명의 만능의 보검이며 백전백승의 기치입니다, AIGC, 에이전트, MCP를 능숙하게 지휘운용하듯이 디지털 로동력 군단을 구동시킨다.
 
+#### 神行术 (Divine March Technique)
+
+- 此技缘起于神行太保戴宗君，发扬于UCLA计算机硕士谢万宁Shawn君；而在下承其志，履其行，代码与鄙人定有一个能跑！
+
 ## Recent projects (Flutter)
 
 | name                                             | platforms                           |
