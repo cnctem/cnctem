@@ -27,6 +27,14 @@
 | [LZF-Music](https://github.com/cnctem/LZF-Music) | Windows, MacOS, iOS, Android        |
 | multi_calculator                                 | HarmonyOS 6.0+, iOS, Android, MacOS |
 
+## END
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cnctem/cnctem/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cnctem/cnctem/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+
 ---
 
 ### 𝚗𝚘𝚗-𝚊𝚝𝚝𝚎𝚗𝚍𝚊𝚗𝚌𝚎 𝚒𝚜 𝚖𝚢 𝚛𝚎𝚋𝚎𝚕𝚕𝚒𝚘𝚗
