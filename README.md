@@ -22,11 +22,10 @@
 
 ## Recent projects (Flutter)
 
-| name                                             | platforms                           |
-| ------------------------------------------------ | ----------------------------------- |
-| [PiliPlusX](https://github.com/cnctem/PiliPlusX) | iOS, MacOS, Android, Windows, Linux |
-| [LZF-Music](https://github.com/cnctem/LZF-Music) | Windows, MacOS, iOS, Android        |
-| multi_calculator                                 | HarmonyOS 6.0+, iOS, Android, MacOS |
+| name                                             | platforms                                      |
+| ------------------------------------------------ | ---------------------------------------------- |
+| [PiliPlusX](https://github.com/cnctem/PiliPlusX) | Android, HarmonyOS, iOS, MacOS, Windows, Linux |
+| multi_calculator                                 | HarmonyOS , iOS, Android, MacOS                |
 
 ## END
 
