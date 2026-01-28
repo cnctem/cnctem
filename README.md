@@ -25,7 +25,7 @@
 | name                                             | platforms                                      |
 | ------------------------------------------------ | ---------------------------------------------- |
 | [PiliPlusX](https://github.com/cnctem/PiliPlusX) | Android, HarmonyOS, iOS, MacOS, Windows, Linux |
-| multi_calculator                                 | HarmonyOS , iOS, Android, MacOS                |
+| multi_calculator                                 | Android, HarmonyOS, iOS, MacOS                 |
 
 ## END
 
