@@ -20,12 +20,12 @@
 
 - 此技缘起于神行太保戴宗君，发扬于UCLA计算机硕士谢万宁Shawn君；而在下承其志，履其行，代码与鄙人定有一个能跑！
 
-## Recent projects (Flutter)
+## Recent projects
 
-| name                                             | platforms                                      |
-| ------------------------------------------------ | ---------------------------------------------- |
-| [PiliPlusX](https://github.com/cnctem/PiliPlusX) | Android, HarmonyOS, iOS, MacOS, Windows, Linux |
-| multi_calculator                                 | Android, HarmonyOS, iOS, MacOS                 |
+| name                                             | platforms                                      | powered by |
+| ------------------------------------------------ | ---------------------------------------------- | ---------- |
+| [PiliPlusX](https://github.com/cnctem/PiliPlusX) | Android, HarmonyOS, iOS, MacOS, Windows, Linux | Flutter    |
+| multi_calculator                                 | Android, HarmonyOS, iOS, MacOS                 | KMP        |
 
 ## Skills being learned
 
